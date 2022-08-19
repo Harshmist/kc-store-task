@@ -1,4 +1,4 @@
-# kc-store-task
+# kv-store-task
 
 ## Requirements
 
